@@ -26,13 +26,13 @@ To run the Tic Tac Toe game locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/kenyi-mic/Tic_tac_toe_youtube.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd tic-tac-toe
+   cd Tic_tac_toe_youtube
    ```
 
 3. Open the `index.html` file in a web browser.
