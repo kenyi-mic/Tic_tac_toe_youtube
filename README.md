@@ -4,7 +4,7 @@ This is a simple implementation of the classic Tic Tac Toe game using HTML, CSS,
 
 ## Demo
 
-You can play the game by visiting the [Tic Tac Toe Game Demo](https://your-demo-link](https://64924b93b606620634d75429--shimmering-dasik-22f085.netlify.app/).
+You can play the game by visiting the [Tic Tac Toe Game Demo](https://64924b93b606620634d75429--shimmering-dasik-22f085.netlify.app/).
 
 ## Features
 
